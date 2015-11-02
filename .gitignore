@@ -1,0 +1,5 @@
+*.kpf
+*.pyc
+build
+MANIFEST
+__pycache__
