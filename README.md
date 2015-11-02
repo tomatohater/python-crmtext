@@ -6,8 +6,6 @@
 # Getting Started
 
 * Read the [CRMText API documentation](http://crmtext.com/api/docs).
-* [Request an API Key](http://open.pbs.org/pbs-api-key-request/) from PBS
-* Install Python dependencies: <code>pip install -r REQUIREMENTS.txt</code>
 
 
 # Installation
